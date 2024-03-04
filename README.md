@@ -1,4 +1,3 @@
-(Unzip the file before compile)
 To Run QueueSim.java:
 1. Include the data file name A2data6.txt in the same directory as the java file.
 2. Install JDK version 17.0.1.
